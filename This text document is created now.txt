@@ -1,1 +1,3 @@
 Edit add to staging
+
+Edit add to staging -> Again edit and now try to commit
